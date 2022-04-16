@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03c36c87-7c94-4f61-a949-e67f7fb51d1a" name="Default" comment="更新目录">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autoTest/pyautoTest/test_dir/test_baidu.py" afterPath="$PROJECT_DIR$/autoTest/pyautoTest/test_dir/test_baidu.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autoTest/pyautoTest/test_dir/test_parametrize.py" afterPath="$PROJECT_DIR$/autoTest/pyautoTest/test_dir/test_parametrize.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="03c36c87-7c94-4f61-a949-e67f7fb51d1a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\scriptpy\TestFile.py" afterPath="$PROJECT_DIR$/test002/TestFile.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\bianli01.py" afterPath="$PROJECT_DIR$/test002/bianli01.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\bianli11.xlsx" afterPath="$PROJECT_DIR$/test002/bianli11.xlsx" />
+      <change type="MOVED" beforePath="D:\scriptpy\conftest.py" afterPath="$PROJECT_DIR$/test002/conftest.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\max_zhi.py" afterPath="$PROJECT_DIR$/test002/max_zhi.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\mypy21.py" afterPath="$PROJECT_DIR$/test002/mypy21.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\mypy22.py" afterPath="$PROJECT_DIR$/test002/mypy22.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\mypy23.py" afterPath="$PROJECT_DIR$/test002/mypy23.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\qidong.py" afterPath="$PROJECT_DIR$/test002/qidong.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test01.py" afterPath="$PROJECT_DIR$/test002/test01.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_001.py" afterPath="$PROJECT_DIR$/test002/test_001.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_demo.py" afterPath="$PROJECT_DIR$/test002/test_demo.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_error.py" afterPath="$PROJECT_DIR$/test002/test_error.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_failedException.py" afterPath="$PROJECT_DIR$/test002/test_failedException.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_fixture_param.py" afterPath="$PROJECT_DIR$/test002/test_fixture_param.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_formdate.py" afterPath="$PROJECT_DIR$/test002/test_formdate.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_module.py" afterPath="$PROJECT_DIR$/test002/test_module.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_params.py" afterPath="$PROJECT_DIR$/test002/test_params.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_setup_teardown_pytest.py" afterPath="$PROJECT_DIR$/test002/test_setup_teardown_pytest.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_smtp01.py" afterPath="$PROJECT_DIR$/test002/test_smtp01.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\test_smtpsimple.py" afterPath="$PROJECT_DIR$/test002/test_smtpsimple.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\__init__.py" afterPath="$PROJECT_DIR$/lianxi001/__init__.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py01day.py" afterPath="$PROJECT_DIR$/lianxi001/py01day.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py02.py" afterPath="$PROJECT_DIR$/lianxi001/py02.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py03.py" afterPath="$PROJECT_DIR$/lianxi001/py03.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py04.py" afterPath="$PROJECT_DIR$/lianxi001/py04.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py05.py" afterPath="$PROJECT_DIR$/lianxi001/py05.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py06.py" afterPath="$PROJECT_DIR$/lianxi001/py06.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py07.py" afterPath="$PROJECT_DIR$/lianxi001/py07.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py08.py" afterPath="$PROJECT_DIR$/lianxi001/py08.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py09.py" afterPath="$PROJECT_DIR$/lianxi001/py09.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py10.py" afterPath="$PROJECT_DIR$/lianxi001/py10.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py11.py" afterPath="$PROJECT_DIR$/lianxi001/py11.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py12.py" afterPath="$PROJECT_DIR$/lianxi001/py12.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py13.py" afterPath="$PROJECT_DIR$/lianxi001/py13.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\py14.py" afterPath="$PROJECT_DIR$/lianxi001/py14.py" />
+      <change type="MOVED" beforePath="D:\scriptpy\testscript001\rang01.py" afterPath="$PROJECT_DIR$/lianxi001/rang01.py" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,9 +109,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/config.py">
+        <entry file="file://$PROJECT_DIR$/pyautoTest/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+            <state vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="558">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
@@ -85,7 +119,7 @@
         </entry>
       </file>
       <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/conftest.py">
+        <entry file="file://$PROJECT_DIR$/pyautoTest/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="2099" max-vertical-offset="2898">
               <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
@@ -97,7 +131,7 @@
         </entry>
       </file>
       <file leaf-file-name="baidu_page.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/page/baidu_page.py">
+        <entry file="file://$PROJECT_DIR$/pyautoTest/page/baidu_page.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
               <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
@@ -106,20 +140,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_baidu.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/test_dir/test_baidu.py">
+      <file leaf-file-name="test_baidu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyautoTest/test_dir/test_baidu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5316456" vertical-offset="0" max-vertical-offset="1296">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1296">
+              <caret line="38" column="59" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
+              <folding>
+                <element signature="e#61#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request_basic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/json_test/request_basic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
+              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request_advance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/json_test/request_advance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request_token.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/json_test/request_token.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="689">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="test_parametrize.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/test_dir/test_parametrize.py">
+        <entry file="file://$PROJECT_DIR$/pyautoTest/test_dir/test_parametrize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1188">
+            <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1188">
               <caret line="51" column="47" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
               <folding>
                 <element signature="e#61#71#0" expanded="true" />
@@ -129,13 +195,11 @@
         </entry>
       </file>
       <file leaf-file-name="run_tests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/run_tests.py">
+        <entry file="file://$PROJECT_DIR$/pyautoTest/run_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="502" max-vertical-offset="1098">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-              <folding>
-                <element signature="e#15#24#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="1152">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -152,6 +216,9 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -305,6 +372,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\scriptpy\autoTest" />
       <recent name="D:\scriptpy" />
       <recent name="E:\scriptpy\第一阶段" />
     </key>
@@ -350,7 +418,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/max_zhi.py" />
+      <option name="SCRIPT_NAME" value="D:\scriptpy\autoTest\max_zhi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -370,7 +438,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_formdate.py" />
+      <option name="SCRIPT_NAME" value="D:\scriptpy\autoTest\test_formdate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -680,7 +748,13 @@
       <option name="project" value="LOCAL" />
       <updated>1650103454208</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新目录">
+      <created>1650124501491</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650124501491</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -708,27 +782,27 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22117962" sideWeight="0.7660167" order="0" side_tool="false" content_ui="combo" x="570" y="241" width="396" height="351" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29805014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4317549" sideWeight="0.8713137" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.7741287" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21849866" sideWeight="0.76687115" order="0" side_tool="false" content_ui="combo" x="570" y="241" width="396" height="351" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.4989339" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21849866" sideWeight="0.23312883" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.545961" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.7741287" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22117962" sideWeight="0.2339833" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4317549" sideWeight="0.8713137" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.545961" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -760,9 +834,9 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="更新目录" />
     <MESSAGE value="bianli001" />
-    <option name="LAST_COMMIT_MESSAGE" value="bianli001" />
+    <MESSAGE value="更新目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -771,28 +845,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="266">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypy21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testscript001/py13.py">
+    <entry file="file://$PROJECT_DIR$/lianxi001/py13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="494">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testscript001/rang01.py">
+    <entry file="file://$PROJECT_DIR$/lianxi001/rang01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="475">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -806,84 +866,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypy23.py">
+    <entry file="file://$PROJECT_DIR$/test002/mypy23.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypy21.py">
+    <entry file="file://$PROJECT_DIR$/test002/mypy21.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testscript001/py13.py">
+    <entry file="file://$PROJECT_DIR$/lianxi001/py13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="494">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testscript001/rang01.py">
+    <entry file="file://$PROJECT_DIR$/lianxi001/rang01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypy21.py">
+    <entry file="file://$PROJECT_DIR$/test002/mypy21.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testscript001/py13.py">
+    <entry file="file://$PROJECT_DIR$/lianxi001/py13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="494">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testscript001/rang01.py">
+    <entry file="file://$PROJECT_DIR$/lianxi001/rang01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypy21.py">
+    <entry file="file://$PROJECT_DIR$/test002/mypy21.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypy23.py">
+    <entry file="file://$PROJECT_DIR$/test002/mypy23.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27576196" vertical-offset="0" max-vertical-offset="689">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/json_test/request_basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35849056" vertical-offset="0" max-vertical-offset="689">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testscript001/rang01.py">
+    <entry file="file://$PROJECT_DIR$/lianxi001/rang01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5239478" vertical-offset="0" max-vertical-offset="689">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mypy21.py">
+    <entry file="file://$PROJECT_DIR$/test002/mypy21.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -904,14 +957,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
+    <entry file="file://$PROJECT_DIR$/test002/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
           <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_smtp01.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_smtp01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="494">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="47" />
@@ -953,112 +1006,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_001.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_error.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_error.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="235" max-vertical-offset="608">
           <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_failedException.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_failedException.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="608">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/qidong.py">
+    <entry file="file://$PROJECT_DIR$/test002/qidong.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="855">
           <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test01.py">
+    <entry file="file://$PROJECT_DIR$/test002/test01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
           <caret line="14" column="39" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testscript001/py14.py">
+    <entry file="file://$PROJECT_DIR$/lianxi001/py14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testscript001/py13.py">
+    <entry file="file://$PROJECT_DIR$/lianxi001/py13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="494">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_smtpsimple.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_smtpsimple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="608">
           <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_demo.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="494">
           <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_fixture_param.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_fixture_param.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_params.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_params.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
           <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_setup_teardown_pytest.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_setup_teardown_pytest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1273">
           <caret line="60" column="56" selection-start-line="60" selection-start-column="56" selection-end-line="60" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/max_zhi.py">
+    <entry file="file://$PROJECT_DIR$/test002/max_zhi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_formdate.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_formdate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3272727" vertical-offset="0" max-vertical-offset="440">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_module.py">
+    <entry file="file://$PROJECT_DIR$/test002/test_module.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="248" max-vertical-offset="702">
           <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/README.md">
+    <entry file="file://$PROJECT_DIR$/pyautoTest/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1476">
           <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="31" />
@@ -1070,7 +1123,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3780" max-vertical-offset="15120">
           <caret line="268" column="44" selection-start-line="268" selection-start-column="38" selection-end-line="268" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1082,7 +1134,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/config.py">
+    <entry file="file://$PROJECT_DIR$/pyautoTest/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="558">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -1090,17 +1142,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/run_tests.py">
+    <entry file="file://$PROJECT_DIR$/pyautoTest/run_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="502" max-vertical-offset="1098">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#24#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="1152">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/pytest.ini">
+    <entry file="file://$PROJECT_DIR$/pyautoTest/pytest.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="379">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1108,7 +1158,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/page/baidu_page.py">
+    <entry file="file://$PROJECT_DIR$/pyautoTest/page/baidu_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
@@ -1116,7 +1166,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/conftest.py">
+    <entry file="file://$PROJECT_DIR$/pyautoTest/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2099" max-vertical-offset="2898">
           <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
@@ -1126,7 +1176,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/test_dir/test_parametrize.py">
+    <entry file="file://$PROJECT_DIR$/pyautoTest/test_dir/test_parametrize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1188">
           <caret line="51" column="47" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
@@ -1136,10 +1186,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoTest/pyautoTest/test_dir/test_baidu.py">
+    <entry file="file://$PROJECT_DIR$/pyautoTest/test_dir/test_baidu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5316456" vertical-offset="0" max-vertical-offset="1296">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1296">
+          <caret line="38" column="59" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
+          <folding>
+            <element signature="e#61#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_test/request_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_test/request_advance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="689">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_test/request_token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="689">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
