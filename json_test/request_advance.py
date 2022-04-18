@@ -11,4 +11,4 @@ print(type(r.cookies))
 print(r.cookies)
 #遍历解析cookie值
 for key,value in r.cookies.items():
-    print(print+':'+value)
+    print(print,':',value)
