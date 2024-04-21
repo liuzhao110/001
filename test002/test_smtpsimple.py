@@ -18,10 +18,10 @@ def func_header(request):
     print ('-------------------')
 
 def test_1(mod_header,func_header):
-    print ('in test_1()')
+    print ('in test_1(高)')
 
 def test_2(mod_header,func_header):
-    print ('in test_2()')
+    print ('in test_2(知)')
 
 if __name__ == "__main__":
     pytest.main(["-v", "-s", "test_smtpsimple.py"])
